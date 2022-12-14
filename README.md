@@ -1,6 +1,6 @@
-# stockkart
+# <b>stockkart</b>
 
-n this project, we would like to develop a web server that can be hosted on an AWS cloud 
+In this project, we would like to develop a web server that can be hosted on an AWS cloud 
 platform. The hosted website can be used by any number of users to access information about a 
 company’s stock market and analyze performance within the span of five years
 
